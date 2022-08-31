@@ -1,0 +1,150 @@
+{
+    "generos": [
+        {
+            "value": "action",
+            "text": "Acción"
+        },
+        {
+            "value": "adventure",
+            "text": "Aventura"
+        },
+        {
+            "value": "sci-fi",
+            "text": "Ciencia ficción"
+        },
+        {
+            "value": "comedy",
+            "text": "Comedia"
+        },
+        {
+            "value": "drama",
+            "text": "Drama"
+        },
+        {
+            "value": "fantasy",
+            "text": "Fantasía"
+        },
+        {
+            "value": "historical",
+            "text": "Histórico"
+        },
+        {
+            "value": "mistery",
+            "text": "Misterio"
+        },
+        {
+            "value": "police",
+            "text": "Policiaca"
+        },
+        {
+            "value": "romance",
+            "text": "Romance"
+        },
+        {
+            "value": "horror",
+            "text": "Terror"
+        }
+    ],
+    "calidad": [
+        {
+            "value": "720p",
+            "text": "HD"
+        },
+        {
+            "value": "1080p",
+            "text": "Full HD"
+        },
+        {
+            "value": "2160p",
+            "text": "4K"
+        },
+        {
+            "value": "3D",
+            "text": "3D"
+        }
+    ],
+    "score": [
+        {
+            "value": 1,
+            "text": "1"
+        },
+        {
+            "value": 2,
+            "text": "2"
+        },
+        {
+            "value": 3,
+            "text": "3"
+        },
+        {
+            "value": 4,
+            "text": "4"
+        },
+        {
+            "value": 5,
+            "text": "5"
+        },
+        {
+            "value": 6,
+            "text": "6"
+        },
+        {
+            "value": 7,
+            "text": "7"
+        },
+        {
+            "value": 8,
+            "text": "8"
+        },
+        {
+            "value": 9,
+            "text": "9"
+        }
+    ],
+    "year": [
+        {
+            "value": 1,
+            "text": "2020"
+        },
+        {
+            "value": 2,
+            "text": "2019"
+        },
+        {
+            "value": 3,
+            "text": "2018"
+        },
+        {
+            "value": 4,
+            "text": "2017"
+        },
+        {
+            "value": 5,
+            "text": "2016"
+        },
+        {
+            "value": 6,
+            "text": "2015"
+        },
+        {
+            "value": 7,
+            "text": "2014"
+        },
+        {
+            "value": 8,
+            "text": "2013"
+        },
+        {
+            "value": 9,
+            "text": "2012"
+        },
+        {
+            "value": 10,
+            "text": "2011"
+        },
+        {
+            "value": 11,
+            "text": "2010"
+        }
+    ]
+}
